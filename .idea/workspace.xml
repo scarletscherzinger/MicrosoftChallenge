@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb36ca23-9fc8-47bb-936a-84781a3a9194" name="Default Changelist" comment="" />
+    <list default="true" id="fb36ca23-9fc8-47bb-936a-84781a3a9194" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +15,12 @@
     <session id="-783083562">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -47,13 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/QuadraticEquation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#2128#0" expanded="true" />
-                <element signature="e#1727#1728#0" expanded="true" />
-                <element signature="e#1779#1780#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="103" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="119" />
             </state>
           </provider>
         </entry>
@@ -66,6 +64,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -100,11 +101,13 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,14 +124,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1618791211896" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619359274832" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
@@ -172,18 +174,19 @@
       <updated>1612468804850</updated>
       <workItem from="1612468808833" duration="521000" />
       <workItem from="1612469347844" duration="1375000" />
-      <workItem from="1618771553191" duration="12506000" />
+      <workItem from="1618771553191" duration="13157000" />
+      <workItem from="1619357351034" duration="1896000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14402000" />
+    <option name="totallyTimeSpent" value="16949000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -197,7 +200,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
@@ -225,13 +228,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/QuadraticEquation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#2128#0" expanded="true" />
-            <element signature="e#1727#1728#0" expanded="true" />
-            <element signature="e#1779#1780#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="103" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="119" />
         </state>
       </provider>
     </entry>
